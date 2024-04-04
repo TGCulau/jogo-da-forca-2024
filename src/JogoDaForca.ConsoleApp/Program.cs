@@ -360,7 +360,6 @@
             {
                 chute = char.ToUpper(chute);
             }
-
             return chute;
         }
         static char Chute()
